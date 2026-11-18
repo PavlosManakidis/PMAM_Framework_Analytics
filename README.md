@@ -10,7 +10,6 @@ Data and code for "Bridging the Gap between Prosumer Rights and Market Access: A
 - `pmam_robustness.py` — reproduces Section 4.3, Tables 5–7 and Appendix B: leave-one-dimension-out; random Dirichlet(1,…,1) weights (200,000 draws) with rank-acceptability matrix and pairwise probabilities; convex and concave level mappings; non-compensatory rules (count of L3+ cells, minimum level, leximin) and weak dominance; alternative band thresholds; seven coding-perturbation scenarios (100,000 draws each). All draws use `numpy.random.default_rng(42)`.
 - `results.json` — output of `pmam_robustness.py`.
 - `pmam_figures.py` — regenerates Figures 1 and 2 (600 dpi PNG).
-- `snapshots/` — archived copies (PDF) of the web sources listed in the evidence register.
 
 ## Usage
 
@@ -21,6 +20,8 @@ python pmam_figures.py pmam_scores.csv .
 ```
 
 The double-coding material is in `double_coding/`: the original and the revised independent codings, each with the first coder's levels, the second coder's completed sheet and the script that computes the agreement (see `double_coding/README.md`).
+
+The archived (PDF) copies of the web sources listed in the evidence register can be found here: https://doi.org/10.5281/zenodo.24333748
 
 ## Licence
 
