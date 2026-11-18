@@ -1,6 +1,6 @@
 # PMAM dataset and code (revised version)
 
-Data and code for "Bridging the Gap between Prosumer Rights and Market Access: A Comparative Assessment of European Regulatory Frameworks" (Dourbois, Manakidis, Biskas; *Sustainability*, revised manuscript, November 2026). Regulatory cutoff: 31 August 2026.
+Data and code for "Bridging the Gap between Prosumer Rights and Market Access: A Comparative Assessment of European Regulatory Frameworks" (Dourbois, Manakidis, Biskas; *Sustainability*, revised manuscript, November 2026). Regulatory cutoff: 31 August 2026. (Repo DOI: https://doi.org/10.5281/zenodo.24322086)
 
 ## Contents
 
